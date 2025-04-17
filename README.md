@@ -11,7 +11,7 @@ NBA.com
 
 --- Link to Data 
 
-Here is the link to the google drive folder: https://drive.google.com/file/d/1_7YIYr4kasLzHMTQzyaQ9-lMUrK6n5Dm/view?usp=sharing
+Here is the link to the google drive folder: https://drive.google.com/file/d/18fbDF57I0lzHPXe5j4MkvpPcP6WXlwmZ/view?usp=sharing
 
 
 --- Data Dictionary
